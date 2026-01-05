@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm Carles<br>Building digital experiences. Commited to mastering my craft.<br>Working on: My Portfolio & Free Services<br>
+Hi, I'm Carles<br>Building digital experiences. Commited to mastering my craft.<br>Working on: Learning Java<br>
 
 
 ## 🌐 Socials:
